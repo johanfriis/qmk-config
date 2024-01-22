@@ -3,9 +3,10 @@
 #include "quantum.h"
 
 enum layers {
-    _BASE = 0,
+    _BSE,
     _NAV,
     _NUM,
     _SYM,
-    _FUN,
+    _FNC,
+    _OPS,
 };

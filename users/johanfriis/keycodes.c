@@ -1,3 +1,5 @@
+#define _HODOR_ KC_NO
+
 #define ___A___ KC_A
 #define ___B___ KC_B
 #define ___C___ KC_C
@@ -24,6 +26,17 @@
 #define ___X___ KC_X
 #define ___Y___ KC_Y
 #define ___Z___ KC_Z
+
+#define ___0___ KC_0
+#define ___1___ KC_1
+#define ___2___ KC_2
+#define ___3___ KC_3
+#define ___4___ KC_4
+#define ___5___ KC_5
+#define ___6___ KC_6
+#define ___7___ KC_7
+#define ___8___ KC_8
+#define ___9___ KC_9
 
 #define _BKSPC_ KC_BSPC
 #define _COMMA_ KC_COMM
@@ -58,3 +71,13 @@
 #define _L_GUI_ KC_LGUI
 #define _L_OPT_ KC_LOPT
 #define _L_SFT_ KC_LSFT
+
+#define _BSLSH_ KC_BSLS
+#define _COLON_ KC_COLN
+#define _EQUAL_ KC_EQL
+#define _GRAVE_ KC_GRV
+#define _MINUS_ KC_MINS
+#define _SEMIC_ KC_SCLN
+
+#define _LBRAC_ KC_LBRC
+#define _RBRAC_ KC_RBRC
